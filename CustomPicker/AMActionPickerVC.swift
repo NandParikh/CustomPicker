@@ -1,11 +1,3 @@
-//
-//  AMActionPickerVC.swift
-//  Sensifieds
-//
-//  Created by Arvind on 10/08/17.
-//  Copyright © 2017 Komal. All rights reserved.
-//
-
 import UIKit
 
 class AMActionPickerVC: UIViewController, UIPickerViewDelegate, UIPickerViewDataSource {
